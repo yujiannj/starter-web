@@ -11,6 +11,7 @@ as stated above, the main purpose is.
 This is a deployment test. 
 
 ## How To Contribute
+please follow the steps. 
 
 ## Copyright
 training.
