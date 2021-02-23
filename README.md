@@ -14,4 +14,4 @@ This is a deployment test.
 please follow the steps. 
 
 ## Copyright
-training.
+training.  All right are reserved. 
